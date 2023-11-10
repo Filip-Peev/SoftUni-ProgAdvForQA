@@ -3,15 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Repeat Strings", "02. Repeat Strings\02. Repeat Strings.csproj", "{2262D141-7FFC-49BB-831D-2C0D06D8F343}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Repeat Strings", "02. Repeat Strings\02. Repeat Strings.csproj", "{2262D141-7FFC-49BB-831D-2C0D06D8F343}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Substring", "03. Substring\03. Substring.csproj", "{2A755D17-3128-4B88-9197-3416EFA91A01}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Substring", "03. Substring\03. Substring.csproj", "{2A755D17-3128-4B88-9197-3416EFA91A01}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Text Filter", "04. Text Filter\04. Text Filter.csproj", "{EA669F5E-6295-4968-9371-2B3FA0CCE0D5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Text Filter", "04. Text Filter\04. Text Filter.csproj", "{EA669F5E-6295-4968-9371-2B3FA0CCE0D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Digits, Letters and Other", "05. Digits, Letters and Other\05. Digits, Letters and Other.csproj", "{A9F93617-74A4-46DB-8D93-9385D03D9D8C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Digits, Letters and Other", "05. Digits, Letters and Other\05. Digits, Letters and Other.csproj", "{A9F93617-74A4-46DB-8D93-9385D03D9D8C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Reverse Strings", "01. Reverse Strings\01. Reverse Strings.csproj", "{9A861D65-8DE4-4425-92A4-A3509E0D2880}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Reverse Strings", "01. Reverse Strings\01. Reverse Strings.csproj", "{9A861D65-8DE4-4425-92A4-A3509E0D2880}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{53184DDC-7288-42C6-B9C4-EFAC90CF80E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test2", "Test2\Test2.csproj", "{4AA6EC0E-CAA0-4A2D-A063-A5AC9DD2506F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{9A861D65-8DE4-4425-92A4-A3509E0D2880}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A861D65-8DE4-4425-92A4-A3509E0D2880}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A861D65-8DE4-4425-92A4-A3509E0D2880}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53184DDC-7288-42C6-B9C4-EFAC90CF80E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53184DDC-7288-42C6-B9C4-EFAC90CF80E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53184DDC-7288-42C6-B9C4-EFAC90CF80E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53184DDC-7288-42C6-B9C4-EFAC90CF80E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AA6EC0E-CAA0-4A2D-A063-A5AC9DD2506F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AA6EC0E-CAA0-4A2D-A063-A5AC9DD2506F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AA6EC0E-CAA0-4A2D-A063-A5AC9DD2506F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AA6EC0E-CAA0-4A2D-A063-A5AC9DD2506F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
